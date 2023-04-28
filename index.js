@@ -14,7 +14,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="";
+var hostURL="https://rdxcamhack.mageerauldb8vaa.repl.co";
 //TOGGLE for 1pt Proxy and Shorters
 var use1pt=true;
 
